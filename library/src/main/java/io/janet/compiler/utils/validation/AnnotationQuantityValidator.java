@@ -1,4 +1,4 @@
-package io.techery.janet.compiler.utils.validation;
+package io.janet.compiler.utils.validation;
 
 import java.util.HashSet;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Set;
 
 import javax.lang.model.element.Element;
 
-import io.techery.janet.compiler.utils.ActionClass;
+import io.janet.compiler.utils.ActionClass;
 
 public class AnnotationQuantityValidator<T extends ActionClass> implements Validator<T> {
 

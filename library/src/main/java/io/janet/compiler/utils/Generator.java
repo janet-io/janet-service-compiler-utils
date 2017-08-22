@@ -1,4 +1,4 @@
-package io.techery.janet.compiler.utils;
+package io.janet.compiler.utils;
 
 import com.squareup.javapoet.JavaFile;
 import com.squareup.javapoet.TypeSpec;

@@ -1,4 +1,4 @@
-package io.techery.janet.compiler.utils.validation;
+package io.janet.compiler.utils.validation;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -7,7 +7,7 @@ import javax.lang.model.element.Element;
 import javax.lang.model.element.ElementKind;
 import javax.lang.model.element.Modifier;
 
-import io.techery.janet.compiler.utils.ActionClass;
+import io.janet.compiler.utils.ActionClass;
 
 public class FieldsModifiersValidator<T extends ActionClass> implements Validator<T> {
     @Override

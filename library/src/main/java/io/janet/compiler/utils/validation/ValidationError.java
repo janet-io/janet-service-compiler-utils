@@ -1,4 +1,4 @@
-package io.techery.janet.compiler.utils.validation;
+package io.janet.compiler.utils.validation;
 
 import javax.lang.model.element.Element;
 

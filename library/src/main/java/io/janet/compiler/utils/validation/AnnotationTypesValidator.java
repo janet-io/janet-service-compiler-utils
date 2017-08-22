@@ -1,4 +1,4 @@
-package io.techery.janet.compiler.utils.validation;
+package io.janet.compiler.utils.validation;
 
 import com.squareup.javapoet.TypeName;
 
@@ -11,8 +11,8 @@ import java.util.Set;
 
 import javax.lang.model.element.Element;
 
-import io.techery.janet.compiler.utils.ActionClass;
-import io.techery.janet.compiler.utils.TypeUtils;
+import io.janet.compiler.utils.ActionClass;
+import io.janet.compiler.utils.TypeUtils;
 
 public class AnnotationTypesValidator<T extends ActionClass> implements Validator<T> {
 

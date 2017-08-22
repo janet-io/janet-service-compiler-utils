@@ -1,4 +1,4 @@
-package io.techery.janet.compiler.utils;
+package io.janet.compiler.utils;
 
 import com.google.common.reflect.TypeToken;
 import com.squareup.javapoet.TypeName;
